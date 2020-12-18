@@ -10,7 +10,22 @@ Aplicación Móvil desarrollada con Android Studio , con las funcionaldades de p
 
 # Funcionalidades
 
+
+-Visualizar los coches registrados junto con sus características
+
+-Agregar coches 
+
+-Cambiar características de los coches
+
+
 # Ejecución
 
+Descargar Apk:
+
+
 # Desarrollada por: 
+
+-Nerea Cabiedas Moreno
+
+-Víctor Ávila Ortega
 
