@@ -10,6 +10,7 @@ Aplicación Móvil desarrollada con Android Studio , con las funcionaldades de p
 
 # Funcionalidades
 
+Aquí se pueden visualizar todas las funcionalidades implementadas: https://github.com/NereaCabiedasMoreno/Concesionario/blob/main/memoria_android.pdf
 
 -Visualizar los coches registrados junto con sus características
 
@@ -20,7 +21,7 @@ Aplicación Móvil desarrollada con Android Studio , con las funcionaldades de p
 
 # Ejecución
 
-Descargar Apk:
+Descargar Apk: https://mega.nz/file/Hc1lWAQC#CiZ4mR1Wc5R5L-J8gPiqlQ2csN3oRLDuuuiAyk0ZKvA
 
 
 # Desarrollada por: 
